@@ -1,0 +1,4 @@
+        System.out.println(Collections.sort(result));
+/.idea
+/out
+HomeWorkAPI1.iml
